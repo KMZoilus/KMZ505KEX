@@ -13,6 +13,7 @@ Then follow these instructions when setting up Your system if you're
 using the Arduino ESP8266:
 
 Setup internet connection, wifi, custom, then choose:
+
 SSID: PS4Exploit
 
 Password: hackmyps4
@@ -20,6 +21,7 @@ Password: hackmyps4
 For All settings choose "automatic" except for "ip settings" choose manual and enter:
 
 Ip address - 10.13.37.9
+
 Subnet mask - 255.255.255.0
 
 Set GATEWAY, Primary & Secondary DNS all to 10.13.37.1
