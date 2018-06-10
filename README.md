@@ -24,16 +24,33 @@ https://youtu.be/MQGYoEzPz4c
 
 <br>
 
-# Arduino ESP8266 mini board version v1.2
+# Arduino ESP8266 mini board version v2.0
 
-1.updated mirahen html<br>
-2.updated reactpsplus & UNDO reactpsplus  to v.01 by  Zer0xff<br>
-3.updated kernel dumper to 4.05 - 5.05 USB version<br>
-4.various minor changes here and there<br>
+1. Completely changed sketch. Modded version of Stooges combined with mine.
+Now there is no need for any changes in ps4's network set up! Just login and 
+go!<br><br>
+
+2. ESP8266 Board specs can now be display, how much space you're using, how much is left, etc.<br><br>
+
+3. Files can be FTP'd into the ESP in REAL time while connected to ps4. You can upload, download
+ delete,  thanks to the file manager!
+<br><br>
+
+4. Configure wifi settings of ESP8266 right from the ps4 or via phone, pc etc<br><br>
+
+5. Can work through USER GUIDE and/or browser either way or both!<br><br>
+
+6. ALL addresses put in browser url lead to the INDEX page of the exploit! Unless
+they are EXPLOIT specific pages!<br><br>
+
+7. various minor changes here and there<br><br>
 
 <b>ADDED:</b><br>
-+ Firmware update enabler  simple version
-+ PS4 Cheater 1.4.4
++ Admin panel to the main exploit/index page as a secondary way to access the ADMIN page.<br>
+now it can be access via a browser on a device connected to the ESP or directly from the exploit.
+(note: that some options on the ADMIN page will NOT work through the ps4 browser. Must use PC, Phone<br>
+etc.  for those options to work)<br><br>
+  
 
 
 
