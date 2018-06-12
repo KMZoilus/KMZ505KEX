@@ -1,9 +1,20 @@
+# Playground v2.0 Update
+
+1. Updated info & Descriptions<br>
+2. Some minor changes to layout and other misc small stuff<br>
+
+<b>ADDED:</b><br>
+1. Lamance 0.8 5.05 - GTA V mod menu<br>
+2. Psycos - GTA V mod menu<br>
+3. AP II Intense v2 - GTA V mod menu<br>
+
+<br><br>
 # Playground v1.2 Update
 
-1.updated mirahen html<br>
-2.updated reactpsplus & UNDO reactpsplus  to v.01 by  Zer0xff<br>
-3.updated kernel dumper to 4.05 - 5.05 USB version<br>
-4.various minor changes here and there<br>
+1. updated mirahen html<br>
+2. updated reactpsplus & UNDO reactpsplus  to v.01 by  Zer0xff<br>
+3. updated kernel dumper to 4.05 - 5.05 USB version<br>
+4. various minor changes here and there<br>
 
 <b>ADDED:</b><br>
 + Firmware update enabler  simple version
