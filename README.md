@@ -66,25 +66,3 @@ now it can be access via a browser on a device connected to the ESP or directly 
 etc.  for those options to work)<br><br>
   
 
-
-
-# Arduino ESP8266 mini board version v1.0
-ESP8266 version of my 5.05 Playground. Only the .bin file is needed
-Then follow these instructions when setting up Your system if you're 
-using the Arduino ESP8266. This is for use via PS4 User Guide:
-
-Setup internet connection, wifi, custom, then choose:
-
-SSID: PS4Exploit
-
-Password: hackmyps4
-
-For All settings choose "automatic" except for "ip settings" choose manual and enter:
-
-Ip address - 10.13.37.9
-
-Subnet mask - 255.255.255.0
-
-Set GATEWAY, Primary & Secondary DNS all to 10.13.37.1
-Done!
-
