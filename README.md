@@ -1,3 +1,6 @@
+# Playground v2.1 Update
+1. Updated all GTA menus to the newer smaller sized ones (thanks to Leeful)<br><br>
+
 # Playground v2.0 Update
 
 1. Updated info & Descriptions<br>
