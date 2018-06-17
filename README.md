@@ -1,3 +1,7 @@
+# Playground v2.2 Update
+1. Added - GTA V Mod Menu v1.1 by WildModz<br><br>
+
+
 # Playground v2.1 Update
 1. Updated all GTA menus to the newer smaller sized ones (thanks to Leeful)<br><br>
 
