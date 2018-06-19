@@ -1,3 +1,8 @@
+# Playground v2.3 Update
+1. Added - GTA V Trainer by David1337hax <br>
+2. Made some changes to the info & descriptions sections and GTA menus info page<br><br>
+
+
 # Playground v2.2 Update
 1. Added - GTA V Mod Menu v1.1 by WildModz<br><br>
 
