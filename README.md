@@ -1,3 +1,11 @@
+# Playground v2.4 Update
+1. Added - GTA V Mod menu Intense V2 updated by erootix. This must be used with EUR version of
+GTA V and game update 1.27 must be installed<br><br>
+2. Added - History Blocker / UNblocker. Extremely useful, read info & description section
+of exploit for more details.<br><br>
+3. Other minor changes/tweaks here and there.<br><br>
+
+
 # Playground v2.3 Update
 1. Added - GTA V Trainer by David1337hax <br>
 2. Made some changes to the info & descriptions sections and GTA menus info page<br><br>
