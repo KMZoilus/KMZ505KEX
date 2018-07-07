@@ -1,11 +1,12 @@
 # Playground v2.5 Update
-1. Added - GTA V Mod menu "Not Another Menu" by David1337hax<br><br>
-2. Added - GTA V Mod menu AP II Intense V2 for EUR/USA on v1.00.<br><br>
-3. Fixed Extreme UN-blocker, before it was installing Extreme Blocker instead of UNblocker<br><br>
-4. Added/edited content in "info & descriptions"<br><br>
-5. NOTE: All GTA Mod menus/trainers now work for both EUR/USA versions of game on v1.00<br>
+1. Updated Vortex HEN to v1.7<br><br>
+2. Added - GTA V Mod menu "Not Another Menu" by David1337hax<br><br>
+3. Added - GTA V Mod menu AP II Intense V2 for EUR/USA on v1.00.<br><br>
+4. Fixed Extreme UN-blocker, before it was installing Extreme Blocker instead of UNblocker<br><br>
+5. Added/edited content in "info & descriptions"<br><br>
+6. NOTE: All GTA Mod menus/trainers now work for both EUR/USA versions of game on v1.00<br>
  unless otherwised noted when hovering over GTA mod menu selection on exploit screen<br><br>
-6. Other minor changes/tweaks here and there.<br><br>
+7. Other minor changes/tweaks here and there.<br><br>
 
 
 # Playground v2.4 Update
