@@ -1,3 +1,13 @@
+# Playground v2.5 Update
+1. Added - GTA V Mod menu "Not Another Menu" by David1337hax<br><br>
+2. Added - GTA V Mod menu AP II Intense V2 for EUR/USA on v1.00.<br><br>
+3. Fixed Extreme UN-blocker, before it was installing Extreme Blocker instead of UNblocker<br><br>
+4. Added/edited content in "info & descriptions"<br><br>
+5. NOTE: All GTA Mod menus/trainers now work for both EUR/USA versions of game on v1.00<br>
+ unless otherwised noted when hovering over GTA mod menu selection on exploit screen<br><br>
+6. Other minor changes/tweaks here and there.<br><br>
+
+
 # Playground v2.4 Update
 1. Added - GTA V Mod menu Intense V2 updated by erootix. This must be used with EUR version of
 GTA V and game update 1.27 must be installed<br><br>
