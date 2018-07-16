@@ -1,3 +1,18 @@
+# Playground v2.6 Update
+1. Updated the Hen in Mira + Hen to Vortex's v1.7<br><br>
+2. Updated - GTA V Mod menu AP II Intense V2, now works with EUR/USA regions on v1.27 update!<br><br>
+3. Added - Hen + Loader. This will load Vortex Hen v1.7 plus the bin/payload loader at the same time! <br>
+   This works GREAT with TylerModz Trainer. Just start the trainer on your pc, run this Hen+loader, then <br>
+   inject any payload you want. This will also work to inject mod menus, just run this and then inject the <br>
+   menu/payload.  This also takes the place of "original" and the PS4 Cheater.<br>
+   If using tylerMods trainer make sure its v.1.3.41.57 or higher<br><br>
+4. Removed the PS4 Cheater from exploit. It was the same thing as "Original" and as Bin/Payload loader, now<br>
+   that Hen+Loader has been added there is no need to have a bin/payload loader 3 times on the same exploit. <br><br>
+5. Other minor changes/tweaks here and there.<br><br>
+
+
+
+
 # Playground v2.5 Update
 1. Updated Vortex HEN to v1.7<br><br>
 2. Added - GTA V Mod menu "Not Another Menu" by David1337hax<br><br>
