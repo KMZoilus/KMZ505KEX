@@ -1,3 +1,8 @@
+# Playground v2.7 Update
+1. Updated - AppToUSB to v3<br><br>
+2. Updated - DB & SG (database & save game back up) to v3<br><br>
+
+
 # Playground v2.6 Update
 1. Updated the Hen in Mira + Hen to Vortex's v1.7<br><br>
 2. Updated - GTA V Mod menu AP II Intense V2, now works with EUR/USA regions on v1.27 update!<br><br>
