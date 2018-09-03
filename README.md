@@ -1,3 +1,21 @@
+# Playground v3.0b Update
+1. Fixed - ApptoUSB v3.0<br>
+2. Fixed - HEN + Bin Loader<br>
+3. Added - Vortex Hen + VR <br>
+4. Added - USB FPKG v1.1<br>
+5. Added - BO3 Online<br>
+6. Added - DB Restore v2.0 and DB Restore UNDO v2.0<br>
+7. Added - GTA Menus page<br>
+8. <b>Added - All of the following GTA V menus:</b><br>
+*Arabic Guy V1.1  for GTA on V1.00<br>
+*Lamance v0.8 for GTA on update v1.27<br>
+*Last Team Standing v1.0 (LTS) for GTA on update v1.27<br>
+*NotAnotherMenu v0.2b for GTA on update v1.27<br>
+*NotyourDopes v1.0 for GTA on update v1.27<br>
+*WildeModz v1.2 for GTA on update v1.27<br><br>
+
+9. Made various tweaks and changes to info & description page, layout, icons...etc<br><br><br>
+
 # Playground v2.7 Update
 1. Updated - AppToUSB to v3<br><br>
 2. Updated - DB & SG (database & save game back up) to v3<br><br>
