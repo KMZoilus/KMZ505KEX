@@ -1,3 +1,6 @@
+# Playground v3.1 Update
+1. Fixed - Issues with some of the GTA menus (mega thanks to Leeful!!)
+
 # Playground v3.0b Update
 1. Fixed - ApptoUSB v3.0<br>
 2. Fixed - HEN + Bin Loader<br>
