@@ -1,3 +1,7 @@
+# Playground v3.2 Update
+1. Added HEN 1.8 by Zecoxao<br>
+2. Updated AppToUsb to v4<br><br>
+
 # Playground v3.1 Update
 1. Fixed - Issues with some of the GTA menus (mega thanks to Leeful!!)
 
