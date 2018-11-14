@@ -1,3 +1,9 @@
+# Playground v3.3 Update
+1. Added Lotus GTA V Menu by 0x199<br>
+2. Changed GTA V icon on main page, since the gif was glitchy sometimes.<br>
+3. Alternate version changes backgrounds and adds music and controls to GTA page<br><br>
+
+
 # Playground v3.2 Update
 1. Added HEN 1.8 by Zecoxao<br>
 2. Updated AppToUsb to v4<br><br>
