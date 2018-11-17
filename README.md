@@ -1,3 +1,7 @@
+# Playground v3.3b Update
+1. Updated Lotus GTA V Menu to v1.01 (thanks @Leeful!)<br><br>
+
+
 # Playground v3.3 Update
 1. Added Lotus GTA V Menu by 0x199<br>
 2. Changed GTA V icon on main page, since the gif was glitchy sometimes.<br>
