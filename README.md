@@ -1,3 +1,8 @@
+# Playground v3.4 Update
+1. Added PS4REN - PS4 Remote Play Enabler. Stream and control your PS4 from PC, Android device or your PS Vita<br>
+  by Golden and SiSTRO<br>
+2. Added PS4REN summary to description in info page<br><br>  
+
 # Playground v3.3b Update
 1. Updated Lotus GTA V Menu to v1.01 (thanks @Leeful!)<br><br>
 
