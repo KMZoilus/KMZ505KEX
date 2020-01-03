@@ -1,3 +1,6 @@
+# Playground v3.6b Update
+1. Added HEN 2.1.1 by Sistro (latest version Jun.1,2019)<br><br>
+
 # Playground v3.5 Update
 1. Added webRTE v1.0 by Tylermods<br><br>
 
