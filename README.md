@@ -1,3 +1,6 @@
+# Playground v4.0 Update
+1. Updated Lotus GTA V menu to v1.04 <br><br>
+
 # Playground v3.9 Beta Update
 1. Added HENs 2.1.2 & 2.1.3 by Sistro <br>
 2. Added HEN 2.1.4 by xXxthedarkprogramerxXx (a fork of 2.1.3 that fixes a few things)<br>
