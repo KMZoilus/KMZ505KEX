@@ -1,3 +1,11 @@
+# Playground v3.9 Beta Update
+1. Added HENs 2.1.2 & 2.1.3 by Sistro <br>
+2. Added HEN 2.1.4 by xXxthedarkprogramerxXx (a fork of 2.1.3 that fixes a few things)<br>
+3. Added HEN VR 2.1 by SiSTRo<br>
+4. Updated webRTE<br>
+5. Removed various outdated HENs and other outdated homebrews. <br>
+6. Updated the more info section to reflect changes. <br><br>
+
 # Playground v3.6b Update
 1. Added HEN 2.1.1 by Sistro (latest version Jun.1,2019)<br><br>
 
